@@ -10,7 +10,7 @@ void main()
 
 
   runApp(
-          MaterialApp(
+          MaterialApp(debugShowCheckedModeBanner:false,
               routes:{
                         "/":(context)=>wrapper(),
                         "/home":(context)=>home(),
