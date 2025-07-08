@@ -1,3 +1,5 @@
+NOTE : I have forked this repo from my earlier account(Goku-tech) as I lost my credentials in that account
+
 # Brew_cofee_app
 
 A Flutter application which enables multiple users to order coffee based on their preferences.
